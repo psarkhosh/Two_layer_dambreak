@@ -8,8 +8,8 @@
 # Two_layer_dambreak
 Herein, a MATLAB platform code titled "Two_layer_dambreak" is presented to simulate ideal dam-break problems over a horizontal channel using two-layer shallow water flows with identical density. The governing equations are available through Chen et al. (2007), who extended the classic Stoker's (1957) analytical solution to a two-layer equation system. The figures below demonstrate the initial conditions in addition to the results of the flow depths and velocity.
 
-![alt text](https://github.com/psarkhosh/Stoker_solution/blob/main/Initial%20condition.jpg)
-![alt text](https://github.com/psarkhosh/Stoker_solution/blob/main/Output.jpg)
+![alt text](https://github.com/psarkhosh/Two_layer_dambreak/blob/main/Fig%201.jpg)
+![alt text](https://github.com/psarkhosh/Two_layer_dambreak/blob/main/Fig%202.jpg)
 
 
 
