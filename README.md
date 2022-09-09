@@ -1,8 +1,8 @@
 <!-- badges: start -->
 [![](https://img.shields.io/badge/lifecycle-stable-yellow.svg)](https://lifecycle.r-lib.org/articles/stages.html#stable)
-[![](https://img.shields.io/github/last-commit/psarkhosh/Stoker_solution.svg)](https://github.com/psarkhosh/Stoker_solution/commits/main)
+[![](https://img.shields.io/github/last-commit/psarkhosh/Two_layer_dambreak.svg)](https://github.com/psarkhosh/Two_layer_dambreak/commits/main)
 [![License: GPL (&gt;=
-3)](https://img.shields.io/badge/license-GPL%20(%3E=%203)-blue.svg)](https://cran.r-project.org/web/licenses/GPL%20(%3E=%203))
+3)](https://img.shields.io/badge/license-MIT-blue.svg)](https://cran.r-project.org/web/licenses/MIT)
 <!-- badges: end -->
 
 # Two_layer_dambreak
@@ -18,5 +18,3 @@ Herein, a MATLAB platform code titled "Two_layer_dambreak" is presented to simul
 - Stoker, J. J., 1957. Water waves: The mathematical theories with applications. New York: Wiley.
 
 
-# License 
-This project is licensed under the MIT License - see the LICENSE.md file for more details.
